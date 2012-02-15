@@ -164,12 +164,14 @@
 			</plugin>
 		</plugins>
 	</build>
+	<!--
 	<distributionManagement>
 		<repository>
 			<id>repo</id>
 			<url>file://var/</url>
 		</repository>
 	</distributionManagement>
+	-->
 	<scm>
 		<url>https://github.com/helzpont/xnet-test</url>
 		<connection>scm:git:git@github.com:helzpont/xnet-test.git</connection>
