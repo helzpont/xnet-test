@@ -172,8 +172,8 @@
 		</repository>
 	</distributionManagement>
 	<scm>
-		<url>https://github.com/xtructure/xnet-test</url>
-		<connection>scm:git:git@github.com:xtructure/xnet-test.git</connection>
-		<developerConnection>scm:git:git@github.com:xtructure/xnet-test.git</developerConnection>
+		<url>https://github.com/helzpont/xnet-test</url>
+		<connection>scm:git:git@github.com:helzpont/xnet-test.git</connection>
+		<developerConnection>scm:git:git@github.com:helzpont/xnet-test.git</developerConnection>
 	</scm>
 </project>
