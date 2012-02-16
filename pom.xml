@@ -167,11 +167,11 @@
 	<distributionManagement>
 		<repository>
 			<id>repo</id>
-			<url>../../raw/master/releases</url>
+			<url>file://./repo/raw/master/releases</url>
 		</repository>
 		<snapshotRepository>
 			<id>snapshot-repo</id>
-			<url>../../raw/master/snapshots</url>
+			<url>file://./repo/raw/master/snapshots</url>
 		</snapshotRepository>
 	</distributionManagement>
 	<scm>
