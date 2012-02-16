@@ -167,8 +167,12 @@
 	<distributionManagement>
 		<repository>
 			<id>repo</id>
-			<url>file://tmp/</url>
+			<url>../../raw/master/releases</url>
 		</repository>
+		<snapshotRepository>
+			<id>snapshot-repo</id>
+			<url>../../raw/master/snapshots</url>
+		</snapshotRepository>
 	</distributionManagement>
 	<scm>
 		<url>https://github.com/helzpont/xnet-test</url>
